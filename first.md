@@ -5,10 +5,6 @@ title: 국가장학금
 
 ## 국가장학금이란?
 
-![alt text][logo]
-
-[logo]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiLzAKptX7RwsIRArRe0Xt_If63JIstvYDmKqdqAMluknb_6C8qw
-
 1. 사업목적
    -  경제적 여건에 관계없이 누구나 의지와 능력에 따라 고등교육기회를 가질 수 있도록 '소득 연계형 국가장학금 지원'
    -  아울러, 대학등록금으로 인한 다자녀 등록 경감을 위해 셋째 자녀 이상 대학생에 대한 국가장학금 지원
