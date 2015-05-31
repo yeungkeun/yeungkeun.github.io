@@ -2,7 +2,7 @@
 layout: default
 title: 근로장학금 신청방법
 ---
-![scholarship3](http://postfiles4.naver.net/20150528_243/insidesku_1432798285512qrGaS_PNG/title_form.png?type=w1 "scholar")
+!http://postfiles4.naver.net/20150528_243/insidesku_1432798285512qrGaS_PNG/title_form.png?type=w1!
 
 ##### 1단계
       - 한국장학재단 홈페이지(http://www.kosaf.go.kr)에서 개별접수
@@ -21,5 +21,5 @@ title: 근로장학금 신청방법
              (18:00 이후 신청한 학생은 2일 후 ​확인 가능)
           ※ 선발 배정은 8월 10일 이후부터 개별 통보
 
-![scholarship3.2](http://postfiles10.naver.net/20150528_73/insidesku_1432798287168aubOe_PNG/02.png?type=w1)
-![scholarship3.3](http://postfiles16.naver.net/20150528_31/insidesku_1432798287703A8Iq2_PNG/03.png?type=w1)
+!http://postfiles10.naver.net/20150528_73/insidesku_1432798287168aubOe_PNG/02.png?type=w1!
+!http://postfiles16.naver.net/20150528_31/insidesku_1432798287703A8Iq2_PNG/03.png?type=w1!
