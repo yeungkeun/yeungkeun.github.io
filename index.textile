@@ -3,8 +3,6 @@ layout: default
 title: "장학금 어디 까지 알아봤니?"
 ---
 
- # 장학금이란?
-1. 주로 성적은 우수하지만 경제적인 이유로 학업에 어려움을 겪는 학생에게 보조해 주는 돈
-2. 학문의 연구를 돕기 위하여 연구자에게 주는 장려금
+# Update
 
 !http://www.cbnusophia.net/files/attach/images/141/778/004/864df2925e3696d2783cd5690b57a410.JPG!
