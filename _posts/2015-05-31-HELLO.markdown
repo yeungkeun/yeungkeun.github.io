@@ -1,24 +1,29 @@
 ---
 layout: post
-title:  "HELLO"
+title:  "국가장학금"
 date:   2015-05-31 21:22:37
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# 국가장학금
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## 국가장학금이란?
 
-Jekyll also offers powerful support for code snippets:
+1. 사업목적
+   -  경제적 여건에 관계없이 누구나 의지와 능력에 따라 고등교육기회를 가질 수 있도록 '소득 연계형 국가장학금 지원'
+   -  아울러, 대학등록금으로 인한 다자녀 등록 경감을 위해 셋째 자녀 이상 대학생에 대한 국가장학금 지원
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+2. 추진경과
+   -  '11년 9월, "국가 장학금" 제도 마련하여 '12년부터 시행('12~'14)
+   -  정부는 대학생 및 다자녀가구의 등록금 부담 경감을 위한 핵심 국정과제로, 소득연계형 반값등록금 및 셋째아이 이상 대학등록금 지원 발표('13.5.28)
+   -  15년 소득연계형 국가장학금 3조 6,000억원 예산 확정('14.12.2)
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+3. 예산에 대한 그래프
+  
+![alt text][logo]
+
+[logo]: http://static.kosaf.go.kr/www/images/fund/scholarship/product/grap.gif
+
+ [한국장학재단 바로가기](http://www.kosaf.go.kr)
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
