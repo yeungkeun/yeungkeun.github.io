@@ -1,9 +1,3 @@
----
-layout: post
-title:  "국가장학금"
-date:   2015-05-31 21:22:37
-categories: jekyll update
----
 # 국가장학금
 
 ## 국가장학금이란?
@@ -25,6 +19,3 @@ categories: jekyll update
 
  [한국장학재단 바로가기](http://www.kosaf.go.kr)
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help

@@ -1,9 +1,3 @@
----
-layout: post
-title:  "국가장학금 종류"
-date:   2015-05-31 21:22:37
-categories: jekyll update
----
 # 국가장학금 종류
 
 ## 1. Ⅰ,Ⅱ유형
@@ -101,7 +95,3 @@ categories: jekyll update
       * 입학정원의 5% 이내
       
       * 예외 대상자는 배정인원의 30%까지만 선발 가능
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
