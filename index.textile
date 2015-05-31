@@ -3,6 +3,6 @@ layout: default
 title: "장학금 어디 까지 알아봤니?"
 ---
 
-##Update
+# Update
 
 !http://www.cbnusophia.net/files/attach/images/141/778/004/864df2925e3696d2783cd5690b57a410.JPG!
