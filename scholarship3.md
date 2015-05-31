@@ -3,7 +3,7 @@ layout: default
 title: 근로장학금 신청방법
 ---
 
-
+![scholarship3](http://postfiles4.naver.net/20150528_243/insidesku_1432798285512qrGaS_PNG/title_form.png?type=w1 "scholar")
 ##### 1단계
       - 한국장학재단 홈페이지(http://www.kosaf.go.kr)에서 개별접수
       - 신청기간 : 5월 22일(금) 09:00 ~ 6월 10일(수) 18:00
