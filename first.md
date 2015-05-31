@@ -7,7 +7,7 @@ title: 국가장학금
 
 ![alt text][logo]
 
-[logo]: http://gredu.or.kr/program/data/publicboard/1078/%EA%B5%AD%EA%B0%80%20%EC%9E%A5%ED%95%99%EA%B8%88.jpg
+[logo]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiLzAKptX7RwsIRArRe0Xt_If63JIstvYDmKqdqAMluknb_6C8qw
 
 1. 사업목적
    -  경제적 여건에 관계없이 누구나 의지와 능력에 따라 고등교육기회를 가질 수 있도록 '소득 연계형 국가장학금 지원'
