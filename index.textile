@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Apache Buildr
+title: "장학금 어디 까지 알아봤니?"
 ---
 
-Apache Buildr is a build system for Java-based applications, including support for Scala, Groovy and a growing number of JVM languages and tools.  We wanted something that's simple and intuitive to use, so we only need to tell it what to do, and it takes care of the rest.  But also something we can easily extend for those one-off tasks, with a language that's a joy to use.  And of course, we wanted it to be fast, reliable and have outstanding dependency management.
+ # 장학금이란?
+1. 주로 성적은 우수하지만 경제적인 이유로 학업에 어려움을 겪는 학생에게 보조해 주는 돈
+2. 학문의 연구를 돕기 위하여 연구자에게 주는 장려금
 
 
 h2(#why).  Why Buildr Rocks
