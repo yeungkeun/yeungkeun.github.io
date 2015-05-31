@@ -5,6 +5,8 @@ title: 국가장학금
 
 ## 국가장학금이란?
 
+!http://chemedu.knu.ac.kr/NFUpload/nfupload_down.php?tmp_name=20130826104915.1080.9.3&name=%EC%B2%A8%EB%B6%803_%EA%B5%AD%EA%B0%80%EC%9E%A5%ED%95%99%EA%B8%88_%EC%8B%A0%EC%B2%AD%EC%95%88%EB%82%B4_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg!
+
 1. 사업목적
    -  경제적 여건에 관계없이 누구나 의지와 능력에 따라 고등교육기회를 가질 수 있도록 '소득 연계형 국가장학금 지원'
    -  아울러, 대학등록금으로 인한 다자녀 등록 경감을 위해 셋째 자녀 이상 대학생에 대한 국가장학금 지원
