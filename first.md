@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 국가장학금란
+title: 국가장학금이란
 ---
 
 # 국가장학금
